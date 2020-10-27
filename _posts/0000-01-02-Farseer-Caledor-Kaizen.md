@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to your second slide!"
 --
-Farseer Caledor
+Farseer Caledor Kaizen
 Use the left arrow to go back!---
